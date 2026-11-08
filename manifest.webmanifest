@@ -1,0 +1,25 @@
+{
+ "name": "Bozkır Mezatı",
+ "short_name": "Bozkır Mezatı",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "portrait",
+ "background_color": "#22140c",
+ "theme_color": "#22140c",
+ "lang": "tr",
+ "icons": [
+  {
+   "src": "ikon_192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "ikon_512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
